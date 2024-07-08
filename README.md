@@ -14,13 +14,13 @@ The datasets and results will be uploaded and made publicly available only after
 ## Authors
 - **Tommaso Felice Banfi** - Dept. of Electronics, Information and Bioengineering, Politecnico di Milano
   - Email: [tommasofelice.banfi@mail.polimi.it](mailto:tommasofelice.banfi@mail.polimi.it)
-  - GitHub: [BanfiTommasoFelice](https://github.com/BanfiTommasoFelice)
+  - GitHub: [@banfitommasofelice](https://github.com/BanfiTommasoFelice)
 - **Francesco Dorati** - Dept. of Electronics, Information and Bioengineering, Politecnico di Milano
   - Email: [francesco.dorati@mail.polimi.it](mailto:francesco.dorati@mail.polimi.it)
-  - GitHub: [FrancescoDorati](https://github.com/francesco-dorati)
+  - GitHub: [@francesco-dorati](https://github.com/francesco-dorati)
 - **Nicola Manzoni** - Dept. of Electronics, Information and Bioengineering, Politecnico di Milano
   - Email: [nicola1.manzoni@mail.polimi.it](mailto:nicola1.manzoni@mail.polimi.it)
-  - GitHub: [NicolaManzoni](https://github.com/03Manzo)
+  - GitHub: [@03Manzo](https://github.com/03Manzo)
 - **Jesus Martínez-Gómez** - Computing Systems Department, Universidad de Castilla-La Mancha
   - Email: [jesus.martinez@uclm.es](mailto:jesus.martinez@uclm.es)
-  - GitHub: [JesusMartinezGomez](https://github.com/jmartinez-gomez)
+  - GitHub: [@jmartinez-gomez](https://github.com/jmartinez-gomez)
