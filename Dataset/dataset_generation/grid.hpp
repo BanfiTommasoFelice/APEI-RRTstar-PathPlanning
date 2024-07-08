@@ -6,7 +6,6 @@
 #include <ctime>
 
 /* MAP PARAMETERS FROM MAIN
-#define NUMBER_ITERATION_RTT 1000
 #define DEPTH 10
 #define SIZE_X (DEPTH * 500) // meters
 #define SIZE_Y (DEPTH * 500) // meters
