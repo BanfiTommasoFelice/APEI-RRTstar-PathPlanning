@@ -1,7 +1,8 @@
 # Optimizing Initial Path Finding in Informed-RRT* with a Novel Map-Adaptive Sampling Technique
 
 ## Introduction
-This repository contains the code to generate the datasets, as well as the datasets and results associated with the paper **"Optimizing Initial Path Finding in Informed-RRT* with a Novel Map-Adaptive Sampling Technique"** by Tommaso Felice Banfi, Francesco Dorati, Nicola Manzoni, and Jesus Martínez-Gómez. The paper introduces the Probabilistic Ellipsoid Informed-RRT* (PEI-RRT*) and the Adaptive Probabilistic Ellipsoid Informed-RRT* (APEI-RRT*) algorithms, which enhance the efficiency of path planning in finding the initial path.
+This repository contains the code to generate the datasets, as well as the datasets and results associated with the paper **_"Optimizing Initial Path Finding in Informed-RRT\* with a Novel Map-Adaptive Sampling Technique"_** by Tommaso Felice Banfi, Francesco Dorati, Nicola Manzoni, and Jesus Martínez-Gómez, published on **November 6th** at [7th Iberian Robotics Conference](https://eventos.upm.es/109808/detail/robot-2024-.html) (ROBOT 2024) \[IEEEXplore\] by **Universidad Politécnica de Madrid**.   
+The paper introduces the Probabilistic Ellipsoid Informed-RRT* (PEI-RRT*) and the Adaptive Probabilistic Ellipsoid Informed-RRT* (APEI-RRT*) algorithms, which enhance the efficiency of path planning.
 
 ## Repository Structure
 - `datasets/`: Includes the maps used for testing and evaluation and also the code to genereate them.
