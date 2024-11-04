@@ -7,10 +7,6 @@ This repository contains the code to generate the datasets, as well as the datas
 - `datasets/`: Includes the maps used for testing and evaluation and also the code to genereate them.
 - `results/`: Holds the CSV files with numerical data and visual executions from the experiments.
 
-
-## Availability
-The datasets and results will be uploaded and made publicly available only after the acceptance of the paper at the 7th Iberian Robotics Conference (ROBOT 2024). Reviewers can access the repository during the review process, contact Tommaso Felice Banfi at [tommasofelice.banfi@mail.polimi.it](mailto:tommasofelice.banfi@mail.polimi.it).
-
 ## Authors
 - **Tommaso Felice Banfi** - Dept. of Electronics, Information and Bioengineering, Politecnico di Milano
   - Email: [tommasofelice.banfi@mail.polimi.it](mailto:tommasofelice.banfi@mail.polimi.it)
